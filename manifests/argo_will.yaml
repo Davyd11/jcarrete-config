@@ -27,7 +27,7 @@ metadata:
   name: will-dp-service
 spec:
   selector:
-    app: will-playground
+    app: will-dp
   ports:
     - protocol: TCP
       port: 8888
